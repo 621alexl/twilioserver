@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eduhelp-niyy",
+  "private_key_id": "18d9e4b669f07bd1ff1fd6b8492ddbad5f85fba1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhZlN8w0lOw2bP\n5lrRnrXjpe1t1M4Gnw/Ryambkz8uqzvYDNkhSt99eUIEx9No5MdxYoL4/yen1UDJ\nY4yzbAt422N9egFWiqwLdes58eCD32tSU/sGU2yb3cHiumZ0axT7TLaoeY5rFUcj\nWwEBJQIHnG9Hnygp+TLjKmfJDTlLvMo2Xp+rDz8V030OYNgbmMkTVSaCwqxPqo2N\ncCmsTADhmrKjeCFlBS8vm6McJ8c9+w3M6wFsd0BCmPNPiZKs4ky5MeX0V8FYT7rj\nPn3nYbtKI4HYAiMuc4sFskDvW23edR9efCPgIdnYK9iGyhTRk96Pl3NYHjzMGkNW\nUH/7l1MpAgMBAAECggEAbJYjzVy1UdUQEEM86HSJ0uCKeBmHoaf6cooxBAqVazHC\nFEzoQ8Iy1dtXYz8zSXrB3I1lZHhjzdaOLhcf3wZDppcmoHno8BzBUood5t3wWAeH\nx/M+YSdKkPJt6AD9v8Mgqgokixh4dH0dNtquKrN9/VWvRHVX35S2n7q7oh+VRTcI\nTqfHqqOyPY/txNEAtwKHvy1rTAcB0GJeZ0CeH/qqBkXxl+FRETNH9PrfJumPD30b\ncxw9xXJFZ5QKlHIyQit2R/otUjBYH4JtWzPkrzTEXQgYVjb4DyMqhg3akD5JNKc0\nIzC1njYAQ9hdVXO8oLM+5eV391bgAidtqtc5Kft0uwKBgQDwz/VGjcyIg6q4oqNA\nqP6DufzSFltqEqDkGASY5eMrsZYCdbIjPsBqVxzxg45NqoX/lFGl+eJfsw6NxMIq\n0JHQGLfBrNDwaYgaXvzRxLqrIOrCsfAEph7vcwaTb93KIbnkXC8FNxi411VrHTtC\nTRgstMh+rJTkdafa80sq6x0CVwKBgQDvnYXoNOGZy+SnmQw1qk4HwrQG6ZGtwGlO\nLaIK0yQq20dLizXcEvniHE1YbTO6VCRdt6WU22bLdLoReJgBwOssegHs4WBrs5aw\nuV9Dv34Eq0qpv5M2tOZuNpPJHTosulLtPzp56oJnwPFm/v9tDv+pM7WKlAo1MzVq\nE0CF4w/mfwKBgHV+gcXy2aCh3WJIuC6MReIvlNNMZT3T6PxhW5zeTYC8HN0GX+wi\nae94oX6VGZF7afXRgCTjTzgyPR+eqL4LFZna9Y1hrHAgjW+QePpAanOkk+Z6uwkJ\npH5gOQ0mv6gn3HM3Jxn8T+uf5OVmVct7ohft/QURX3Q4k7WYj0xZesXxAoGBAKBk\npEccZstJRYS+mQKvPk5JkbJy1LYm7xaKy0ZNsY8SezXhOKtY9HXblhaT+qVGP5WQ\nIcFz3+pe91JMlAvQdFuwS+uhraZKb5taap9x5kv/0RmxiDx9eSXbWK+t5cwc6Pew\ndFc5mBMVf0H/fUEmYhKD74iUsgSMg7u+qVk19eXHAoGAWMPtKBu5MgG+jRgDMH5Q\niNdUBiPVjP3eZiACTin/lfA1uA+7XkMgEmvJw+l7U2ewah8XoZo3yveXMBVwRawT\nfVBZjLPHl3xpicVY2BVSEopGdoJ01xb7eP5iMFI3xjMJwyDM+/RtNzP+dvhC9f6y\nPDj46/DQR4Rer7HukHct7uc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogserviceaccount@eduhelp-niyy.iam.gserviceaccount.com",
+  "client_id": "102972247235113047376",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogserviceaccount%40eduhelp-niyy.iam.gserviceaccount.com"
+}
